@@ -5,6 +5,7 @@
  *   firstName: String,
  *   location: String
  * }[]} students - The list of students.
+ * @param {String} city - The location.
  * @author Oloyede Olatunde <https://github.com/sirtuns4real>
  * @returns
  */
